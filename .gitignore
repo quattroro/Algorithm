@@ -31,3 +31,6 @@
 *.out
 *.app
 /Algorithm/Debug
+/.vs
+/x64
+/Algorithm/x64
